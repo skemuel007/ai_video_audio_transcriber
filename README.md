@@ -19,7 +19,7 @@ This app transcribes audio/video files into text using **OpenAI Whisper** and or
 
 ```bash
 git clone <repo-url>
-cd langgraph_transcriber
+cd ai_video_audio_transcriber
 cp .env.example .env
 pip install -r requirements.txt
 ```
